@@ -2,6 +2,7 @@ zipMods = [
 ['hldm.zip','HLDM (64M)', 64654514],
 ['uplink.zip', 'Uplink (30M)', 30578171],
 ['hc.zip', 'Hazard Course (23M)', 23391374],
+['gdev.zip', 'Retail HL (270M)', 283668677],
 ['dayone.zip', 'Day One (78M)', 78804629]
 ];
 
